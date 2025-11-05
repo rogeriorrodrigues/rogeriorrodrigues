@@ -8,9 +8,8 @@
   <!-- 
   wi*quL3fcV -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorrodrigues&hide=html&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorrodrigues&hide_border=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorrodrigues)](https://github.com/rogeriorrodrigues/github-readme-stats)
 ------------  
   
 <h3>Where to find me</h3>

@@ -101,6 +101,6 @@ I'm always open to conversations about AI in healthcare, cloud architecture, res
 - 💼 [LinkedIn](https://www.linkedin.com/in/rogeriorodrigues)
 - 🌐 [Blog](https://www.rogerio.eti.br)
 - 📫 roger.rrodrigues@gmail.com
-- 🗣️ Languages: Portuguese · English · French
+- 🗣️ Languages: Portuguese · English · Italian
 
 <p align="center"><sub>São José, Santa Catarina, Brazil 🇧🇷</sub></p>

@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI Technical Manager</strong> · <strong>Cloud Architect</strong> · <strong>Health Informatics Researcher</strong><br/>
-  Building intelligent systems at the intersection of AI, Cloud, and Healthcare.
+  Ex-Microsoft Engineer (AI & App Innovation) · Building intelligent systems at the intersection of AI, Cloud, and Healthcare.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 I'm an AI Technical Manager at **Capgemini Brazil (AIE)** and a FAPESC Research Fellow at the **Federal University of Santa Catarina (UFSC)**, with nearly 20 years of experience shipping software across financial services, healthcare, government, and retail.
 
-My work sits at the crossroads of **building things** and **leading people** — I design and implement AI and Cloud solutions for enterprise clients, teach graduate-level courses, and contribute to research on AI Ethics and Health Informatics. Previously, I spent 4+ years at **Microsoft** as a Cloud Solution Architect, working with some of Brazil's largest public sector organizations.
+My work sits at the crossroads of **building things** and **leading people** — I design and implement AI and Cloud solutions for enterprise clients, teach graduate-level courses, and contribute to research on AI Ethics and Health Informatics. Previously, I spent 4+ years at **Microsoft** as a Cloud Solution Architect and Customer Engineer, leading **AI and App Innovation** projects for some of Brazil's largest public sector organizations, including Caixa Econômica Federal, Banco do Brasil, TJSP, CGU, and ANP.
 
 I care about responsible AI, open standards in healthcare, and making complex technology accessible through teaching and community.
 
@@ -101,6 +101,6 @@ I'm always open to conversations about AI in healthcare, cloud architecture, res
 - 💼 [LinkedIn](https://www.linkedin.com/in/rogeriorodrigues)
 - 🌐 [Blog](https://www.rogerio.eti.br)
 - 📫 roger.rrodrigues@gmail.com
-- 🗣️ Languages: Portuguese · English · Italian 
+- 🗣️ Languages: Portuguese · English · French
 
 <p align="center"><sub>São José, Santa Catarina, Brazil 🇧🇷</sub></p>

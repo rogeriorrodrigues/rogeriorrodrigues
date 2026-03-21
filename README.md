@@ -18,7 +18,7 @@
 
 I'm an AI Technical Manager at **Capgemini Brazil (AIE)** and a FAPESC Research Fellow at the **Federal University of Santa Catarina (UFSC)**, with nearly 20 years of experience shipping software across financial services, healthcare, government, and retail.
 
-My work sits at the crossroads of **building things** and **leading people** — I design and implement AI and Cloud solutions for enterprise clients, teach graduate-level courses, and contribute to research on AI Ethics and Health Informatics. Previously, I spent 4+ years at **Microsoft** as a Cloud Solution Architect and Customer Engineer, leading **AI and App Innovation** projects for some of Brazil's largest public sector organizations, including Caixa Econômica Federal, Banco do Brasil, TJSP, CGU, and ANP.
+My work sits at the crossroads of **building things** and **leading people**. I design and implement AI and Cloud solutions for enterprise clients, teach graduate-level courses, and contribute to research on AI Ethics and Health Informatics. Previously, I spent 4+ years at **Microsoft** as a Cloud Solution Architect and Customer Engineer, leading **AI and App Innovation** projects for some of Brazil's largest public sector organizations, including Caixa Econômica Federal, Banco do Brasil, TJSP, CGU, and ANP.
 
 I care about responsible AI, open standards in healthcare, and making complex technology accessible through teaching and community.
 

@@ -41,6 +41,8 @@ The architecture combines:
 
 **Tech stack:** Python · FastAPI · LangChain · Azure AI · FHIR R4 · Synthea · Docker · PostgreSQL
 
+**📦 Public code:** [`nursia-research-lab`](https://github.com/rogeriorrodrigues/nursia-research-lab) — open demos from this research, including a fully local FHIR + Ollama pipeline, a Response-vs-Tutor mode experiment, and a `$everything` FHIR + LLM context loader. All zero-cloud, all FHIR R4.
+
 ---
 
 ### 🛠️ Tech I work with daily
